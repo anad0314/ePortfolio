@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Dana Clark's ePortfolio!
+
+### Thank you for taking the time to look at my page to see what I have accomplished so far.  My career change to become a software engineer is exciting and I hope you will be able to see that despite that I am a newbie in this field.
+
+CODE REVIEW
+The following is a video of my code review for three different artifacts that I chose for my Capstone. 
 
 You can use the [editor on GitHub](https://github.com/anad0314/ePortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
