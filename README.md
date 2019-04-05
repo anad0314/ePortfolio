@@ -12,6 +12,6 @@ The following code was created in order to demonstrate the ability to use well-f
 <a href="https://github.com/anad0314/ePortfolio/blob/master/C%2B%2BtoJava.zip" target="_blank">Code for SW Design and Engineering - C++ to Java</a>
 
 The NARRATIVE for this enhancement:
-<a href="https://github.com/anad0314/ePortfolio/blob/master/Narrative%20Software%20Design%20%26%20Engineering.docx">Click here</a>
+<a href="https://github.com/anad0314/ePortfolio/blob/master/Narrative%20Software%20Design%20%26%20Engineering.docx" target="_blank">Click here</a>
 
 
