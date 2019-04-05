@@ -10,4 +10,5 @@ The following code was created in order to demonstrate an ability to use well-fo
 
 <a href="https://github.com/anad0314/ePortfolio/blob/master/C%2B%2BtoJava.zip">Code for SW Design and Engineering - C++ to Java</a>
 
-The NARRATIVE for this enhancement can be found here:
+The NARRATIVE for this enhancement:
+<a href="https://github.com/anad0314/ePortfolio/blob/master/Narrative%20Software%20Design%20%26%20Engineering.docx">Click here</a>
