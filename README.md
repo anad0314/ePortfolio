@@ -7,7 +7,7 @@ The video of my code review is for three different artifacts that I chose for my
 Click here to view video.
 
 SOFTWARE DESIGN AND ENGINEERING
-The following code was created in order to demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.  For this code I took a program written in C++ and port it JAVA and also enhanced its features along with including several security measures such as making sure every ID was unique. 
+The following code was created in order to demonstrate the ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.  For this code I took a program written in C++ and port it JAVA and also enhanced its features along with including several security measures such as making sure every ID was unique. 
 
 <a href="https://github.com/anad0314/ePortfolio/blob/master/C%2B%2BtoJava.zip">Code for SW Design and Engineering - C++ to Java</a>
 
