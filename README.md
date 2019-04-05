@@ -4,7 +4,7 @@
 
 CODE REVIEW
 The video of my code review is for three different artifacts that I chose for my Capstone.  
-Click <a href="https://drive.google.com/open?id=1yzvojNUK-gEaDZ3ibG5zL8hq_9erCNkQ">here</a> to view video.
+Click <a href="https://drive.google.com/open?id=1yzvojNUK-gEaDZ3ibG5zL8hq_9erCNkQ" target="_blank">here</a> to view video.
 
 SOFTWARE DESIGN AND ENGINEERING
 The following code was created in order to demonstrate the ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.  For this code I took a program written in C++ and port it JAVA and also enhanced its features along with including several security measures such as making sure every ID was unique. 
