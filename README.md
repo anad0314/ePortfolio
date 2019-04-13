@@ -14,4 +14,7 @@ The following code was created in order to demonstrate the ability to use well-f
 The NARRATIVE for this enhancement:
 <a href="https://github.com/anad0314/ePortfolio/blob/master/Narrative%20Software%20Design%20%26%20Engineering.docx" target="_blank">Click here</a>
 
+ALGORITHMS AND DATA STRUCTURE
+The following code was created in order to show the ability to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.  For this code I took a program written in Java that only had a zoo authorization system and added a monitoring system that included diaglog windows in which I was able to teach myself and implement into the code.
 
+<a href="
