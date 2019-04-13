@@ -20,3 +20,4 @@ The following code was created in order to show the ability to design and evalua
 <a href="https://github.com/anad0314/ePortfolio/blob/master/finalprojectit145_for_CS499.zip" target="_blank">Code for algorithms and data structure</a>
 
 The NARRATIVE for this enhancement:
+<a href="https://github.com/anad0314/ePortfolio/blob/master/Narrative%20Algorithms%20and%20Data%20Structure.docx" target="_blank">Click here</a>
