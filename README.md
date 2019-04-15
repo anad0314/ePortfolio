@@ -2,6 +2,8 @@
 
 ### Thank you for taking the time to look at my page to see what I have accomplished so far.  My career change to become a software engineer is exciting and I hope you will be able to see that despite that I am a newbie in this field.
 
+Please take a look at my Professional Self-Assessment first as this is not only the introduction to this ePortfolio but also showcases the skills I have gained by completing the Computer Science Program at SNHU. <a href="https://github.com/anad0314/ePortfolio/blob/master/Professional%20Self-Assessment.docx" target="_blank">Click here</a>
+
 CODE REVIEW
 The video of my code review is for three different artifacts that I chose for my Capstone.  
 Click <a href="https://drive.google.com/open?id=1yzvojNUK-gEaDZ3ibG5zL8hq_9erCNkQ" target="_blank">here</a> to view video.
